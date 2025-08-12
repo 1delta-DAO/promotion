@@ -1,0 +1,15 @@
+{
+  "bridge": ["999", "747474"],
+  "swap": ["999", "747474"],
+  "popover": {
+    "title": "1delta is live on Katana!",
+    "subtitle": "",
+    "description": "Bridge to Katana",
+    "botton": {
+      "link": "./bridge?inputChain=arbitrum-one&outputChain=katana&inputCurrency=ETH&outputCurrency=ETH",
+      "label": "Bridge to Katana"
+    },
+    "backgroundImageDark": "string",
+    "backgroundImageLight": "string"
+  }
+}
