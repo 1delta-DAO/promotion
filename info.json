@@ -13,7 +13,7 @@
       "link": "./bridge?inputChain=arbitrum-one&outputChain=katana&inputCurrency=ETH&outputCurrency=ETH",
       "label": "Bridge Now"
     },
-    "backgroundImageDark": "string",
-    "backgroundImageLight": "string"
+    "backgroundImageDark": "https://raw.githubusercontent.com/1delta-DAO/chain-icons/main/747474.webp",
+    "backgroundImageLight": "https://raw.githubusercontent.com/1delta-DAO/chain-icons/main/747474.webp"
   }
 }
