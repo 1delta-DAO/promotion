@@ -7,7 +7,7 @@
   ],
   "popover": {
     "title": "1delta is live on Katana!",
-    "subtitle": "",
+    "subtitle": "New chain integrated",
     "description": "Bridge to Katana",
     "button": {
       "link": "./bridge?inputChain=arbitrum-one&outputChain=katana&inputCurrency=ETH&outputCurrency=ETH",
