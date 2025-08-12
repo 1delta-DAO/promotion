@@ -1,6 +1,10 @@
 {
   "bridge": ["999", "747474"],
   "swap": ["999", "747474"],
+  "margin": [
+    { "chain": "999" },
+    { "chain": "747474", "lenders": ["MORPHO_BLUE"] }
+  ],
   "popover": {
     "title": "1delta is live on Katana!",
     "subtitle": "",
