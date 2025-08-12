@@ -6,12 +6,12 @@
     { "chain": "747474", "lenders": ["MORPHO_BLUE"] }
   ],
   "popover": {
-    "title": "1delta is live on Katana!",
-    "subtitle": "New chain integrated",
-    "description": "Bridge to Katana",
+    "title": "Hakuna Katana!",
+    "subtitle": "1delta is live on Katana!",
+    "description": "Bridge to Katana to farm high LST yields!",
     "button": {
       "link": "./bridge?inputChain=arbitrum-one&outputChain=katana&inputCurrency=ETH&outputCurrency=ETH",
-      "label": "Bridge to Katana"
+      "label": "Bridge Now"
     },
     "backgroundImageDark": "string",
     "backgroundImageLight": "string"
