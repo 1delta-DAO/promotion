@@ -5,7 +5,7 @@
     "title": "1delta is live on Katana!",
     "subtitle": "",
     "description": "Bridge to Katana",
-    "botton": {
+    "button": {
       "link": "./bridge?inputChain=arbitrum-one&outputChain=katana&inputCurrency=ETH&outputCurrency=ETH",
       "label": "Bridge to Katana"
     },
