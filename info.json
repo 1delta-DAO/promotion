@@ -1,19 +1,16 @@
 {
-  "bridge": ["999", "747474"],
-  "swap": ["999", "747474"],
-  "margin": [
-    { "chain": "999" },
-    { "chain": "747474", "lenders": ["MORPHO_BLUE"] }
-  ],
+  "bridge": ["43111"],
+  "swap": ["43111"],
+  "margin": [{ "chain": "43111" }],
   "popover": {
-    "title": "Hakuna Katana!",
-    "subtitle": "1delta is live on Katana!",
-    "description": "Bridge to Katana to farm high LST yields!",
+    "title": "Hemi Trading competition",
+    "subtitle": "Trade to earn on Hemi!",
+    "description": "Bridge to Hemi to participate - prizes every day!",
     "button": {
-      "link": "./bridge?inputChain=arbitrum-one&outputChain=katana&inputCurrency=ETH&outputCurrency=ETH",
+      "link": "./bridge?inputChain=arbitrum-one&outputChain=hemi&inputCurrency=ETH&outputCurrency=ETH",
       "label": "Bridge Now"
     },
-    "backgroundImageDark": "https://raw.githubusercontent.com/1delta-DAO/chain-icons/main/747474.webp",
-    "backgroundImageLight": "https://raw.githubusercontent.com/1delta-DAO/chain-icons/main/747474.webp"
+    "backgroundImageDark": "https://raw.githubusercontent.com/1delta-DAO/chain-icons/main/43111.webp",
+    "backgroundImageLight": "https://raw.githubusercontent.com/1delta-DAO/chain-icons/main/43111.webp"
   }
 }
