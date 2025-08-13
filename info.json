@@ -3,7 +3,7 @@
   "swap": ["43111"],
   "margin": [{ "chain": "43111" }],
   "popover": {
-    "title": "Hemi Trading competition",
+    "title": "Hemi Trading Competition",
     "subtitle": "Trade to earn on Hemi!",
     "description": "Bridge to Hemi to participate - prizes every day!",
     "button": {
