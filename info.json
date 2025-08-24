@@ -1,6 +1,6 @@
 {
   "bridge": ["43111"],
-  "swap": ["43111"],
+  "swap": [],
   "margin": [{ "chain": "43111" }],
   "popover": {
     "title": "Hemi Trading Competition",
